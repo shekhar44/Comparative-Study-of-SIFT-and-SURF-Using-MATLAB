@@ -1,0 +1,13 @@
+#steps 
+
+step 1: first of all install the MATLAB 
+Step 2: collect the dataset or a benchmarks used by you in implementation of the SIFT algorithm.
+        (www.cbcl.mit.edu/software-datasets/FaceData2.html)
+        (www.bias.csr.unibo.it/fvc2000/download.asp) etc.
+step 3: separately kept the training dataset and test dataset in two different folder and kept in MATLAB folder which is present
+        in Document folder of mycomputer.
+step 4: implement the surfFeatures.m code
+
+
+Note:- Remember that the dataset folder and main code should be in same folder
+       (C:\Users\user_name\Documents\MATLAB)
