@@ -8,7 +8,7 @@ step 3: separately kept the training dataset and test dataset in two different f
         in Document folder of mycomputer.
 step 4: implement the surfFeatures.m code
 step 5: To use sift algorithm 
-        you have run the run.m 
+        you have to run the run.m 
 
 Note:- Remember that the dataset folder and main code should be in same folder
        (C:\Users\user_name\Documents\MATLAB)
